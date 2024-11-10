@@ -1,0 +1,10 @@
+tmp/
+downloaded/
+legacy/
+
+venv/
+
+__pycache__/
+**/__pycache__/
+
+db/db.json
