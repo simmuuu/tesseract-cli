@@ -1,6 +1,9 @@
 # Tesseract-CLI
 
-Tesseract-CLI is a command-line application designed to download and bundle PDFs according to units. It's a work-in-progress (WIP) tool that also uses Selenium Wire to capture network requests.
+Tesseract-CLI is a command-line application designed to download and bundle PDFs according to units.
+
+## Demo (WIP)
+![Demo GIF](./demo/demo.gif)
 
 ## Features
 
@@ -9,7 +12,6 @@ Tesseract-CLI is a command-line application designed to download and bundle PDFs
 - Uses Selenium Wire to capture and inspect network requests.
 - Still in development, features may change over time.
 
----
 ## Installation
 
 To install and run Tesseract-CLI, follow the steps below:
